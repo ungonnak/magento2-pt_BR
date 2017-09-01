@@ -1,0 +1,459 @@
+"Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página."
+"You entered an invalid Secret Key. Please refresh the page.","Você inseriu uma chave secreta inválida. Por favor, atualize a página."
+"Cache Storage Management","Gerenciamento do Armazenamento de Cache"
+"Flush Magento Cache","Esvaziar o Cache do Magento"
+"The cache storage may contain additional data. Are you sure that you want to flush it?","O armazenamento de cache pode conter dados adicionais. Você tem certeza que quer esvaziá-lo?"
+"Flush Cache Storage","Esvaziar o Armazenamento de Cache"
+Invalidated,Invalidado
+Orders,Pedidos
+Amounts,Montantes
+Bestsellers,Mais Vendidos
+"Most Viewed Products","Produtos Mais Visualizados"
+"New Customers","Novos Consumidores"
+Customers,Consumidores
+Customer,Consumidor
+Guest,Visitante
+Items,Itens
+Total,Total
+"Lifetime Sales","Vendas ao longo da vida"
+"Average Order","Pedido Médio"
+Average,Média
+Product,Produto
+Price,Preço
+Quantity,Quantidade
+Views,Visualizações
+Revenue,Receita
+Tax,Taxa
+Shipping,Remessa
+"Images (.gif, .jpg, .png)","Imagens (.gif, .jpg, .png)"
+"Media (.avi, .flv, .swf)","Mídia (.avi, .flv, .swf)"
+"All Files","Todos os Arquivos"
+"Reset to Default","Redefinir para o Padrão"
+"All Store Views","Todas as Visões de Loja"
+"What is this?","O que é isso?"
+"Save Account","Salvar Conta"
+"My Account","Minha Conta"
+"Account Information","Informações da Conta"
+"User Name","Nome de Usuário"
+"First Name","Nome"
+"Last Name","Sobrenome"
+Email,Email
+"User Email","Email do Usuário"
+"New Password","Nova Senha"
+"Password Confirmation","Confirmação de Senha"
+"Interface Locale","Localização da Interface"
+"Current User Identity Verification","Verificação da Identidade do Usuário Atual"
+"Your Password","Sua Senha"
+"Save Cache Settings","Salvar Configurações de Cache"
+"Catalog Rewrites","Re-escritas do Catálogo"
+Refresh,Atualizar
+"Images Cache","Cache de Imagens"
+Clear,Limpar
+"Search Index","Índice de Busca"
+Rebuild,Reconstruir
+"Inventory Stock Status","Status do Estoque do Inventário"
+"Rebuild Catalog Index","Reconstruir o Índice do Catálogo"
+"Rebuild Flat Catalog Category","Reconstruir Catálogo Plano de Categorias"
+"Rebuild Flat Catalog Product","Reconstruir Catálogo Plano de Produtos"
+"Cache Control","Controle de Cache"
+"All Cache","Todos os Caches"
+"No change","Sem Mudança"
+Disable,Desabilitado
+Enable,Habilitado
+"Add Design Change","Adicionar Mudança de Design"
+Back,Voltar
+Delete,Apagar
+"Are you sure?","Tem certeza?"
+Save,Salvar
+"Edit Design Change","Editar Mudança de Design"
+"New Store Design Change","Nova Mudança de Design da Loja"
+"General Settings","Configurações Gerais"
+Store,Loja
+"-- Please Select --","-- Por favor, escolha --"
+"Custom Design","Design Personalizado"
+"Date From","Data De"
+"Date To","Data Para"
+"Design Change","Mudança de Design"
+General,Geral
+Cancel,Cancelar
+"Delete %1 '%2'","Apagar %1 '%2'"
+"Delete %1","Apagar %1"
+"Block Information","Informações do Bloco"
+"Backup Options","Opções de Backup"
+"Create DB Backup","Criar Backup do BD"
+Yes,Sim
+No,Não
+"Delete Store","Apagar Loja"
+"Delete Web Site","Apagar Web Site"
+"Save Web Site","Salvar Web Site"
+"Save Store","Salvar Loja"
+"Save Store View","Salvar Visão da Loja"
+"Delete Store View","Apagar Visão da Loja"
+"Edit Web Site","Editar Web Site"
+"New Web Site","Novo Web Site"
+"Edit Store","Editar Loja"
+"New Store","Nova Loja"
+"Edit Store View","Editar Visão da Loja"
+"New Store View","Nova Visão da Loja"
+"Store Information","Informações da Loja"
+"Web Site","Web Site"
+Name,Nome
+"Root Category","Categoria Raíz"
+"Default Store View","Visão da Loja Padrão"
+"Store View Information","Informações da Visão da Loja"
+Code,Código
+Status,Status
+Disabled,Desabilitado(a)
+Enabled,Habilitado(a)
+"Sort Order","Ordenação"
+"Web Site Information","Informações do Web Site"
+"Default Store","Loja Padrão"
+"Set as Default","Configurar como Padrão"
+Stores,Lojas
+"Create Website","Criar Web Site"
+"Create Store","Criar Loja"
+"Create Store View","Criar Visão de Loja"
+Home,Principal
+Reset,Redefinir
+"Are you sure you want to do this?","Tem certeza que quer fazer isso?"
+"Add New Image","Adicionar Nova Imagem"
+"Export block for grid %1 is not defined","Bloco de exportação para a grade %1 não foi definido"
+"Reset Filter","Redefinir Filtros"
+Search,Procurar
+Any,Qualquer
+"All Countries","Todos os Países"
+From,De
+To,Para
+"Date selector","Seletor de Data"
+"[ deleted ]","[ apagado ]"
+"Select All","Selecionar Tudo"
+" [deleted]"," [apagado]"
+"We couldn\'t find any records.","Nenhum registro encontrado."
+"Add New","Adicionar Novo"
+"Invalid export type supplied for grid export block","O tipo de exportação fornecido é inválido para o bloco de exportação da grade"
+Export,Exportar
+"Please correct the column format and try again.","Por favor, corrija o formato da coluna e tente novamente."
+"Please select items.","Por favor, selecione os itens."
+Submit,Enviar
+"Unknown block type","Tipo de bloco desconhecido"
+"Please correct the tab configuration and try again. Tab Id should be not empty","Por favor, corrija a aba de configurações e tente novamente. O ID da aba não pode ser vazio"
+"Please correct the tab configuration and try again.","Por favor, corrija a aba de configurações e tente novamente."
+"You have logged out.","Você foi desconectado."
+"Specified cache type(s) don\'t exist: %1","O(s) tipo(s) de cache especificado(s) não exite(em): %1"
+"The image cache was cleaned.","O cache de imagens foi limpo."
+"An error occurred while clearing the image cache.","Ocorreu um erro enquanto o cache de imagens ela limpo."
+"The JavaScript/CSS cache has been cleaned.","O cache de JavaScript/CSS foi limpo."
+"An error occurred while clearing the JavaScript/CSS cache.","Ocorreu um erro enquanto o cache de JavaScript/CSS era limpo."
+"The static files cache has been cleaned.","O cache de arquivos estáticos foi limpo."
+"You flushed the cache storage.","Você esvaziou o armazenamento de cache."
+"The Magento cache storage has been flushed.","O armazenamento de cache do Magento foi esvaziado."
+"Cache Management","Gerenciamento de Cache"
+"%1 cache type(s) disabled.","%1 tipo(s) de cache desabilitado(s)."
+"An error occurred while disabling cache.","Ocorreu um erro enquanto o cache era desabilitado."
+"%1 cache type(s) enabled.","%1 tipo(s) de cache habilitado(s)."
+"An error occurred while enabling cache.","Ocorreu um erro enquanto o cache era habilitado."
+"%1 cache type(s) refreshed.","%1 tipo(s) de cache atualizado(s)."
+"An error occurred while refreshing cache.","Ocorreu um erro enquanto o cache era atualizado."
+Dashboard,Painel de Controle
+"We updated lifetime statistic.","Nós atualizamos suas estatísticas desde o começo."
+"We can\'t refresh lifetime statistics.","Não foi possível atualizar suas estatísticas desde o começo."
+"invalid request","requisição inválida"
+"see error log for details","veja o relatório de erros para mais detalhes"
+"Service unavailable: %1","Serviço indisponível: %1"
+Error,Erro
+"Access Denied.","Acesso Negado."
+"You need more permissions to do this.","Você precisa de mais permissões para fazer isso."
+"No search modules were registered","Não há módulos de pesquisa registrados"
+"Please make sure that all global admin search modules are installed and activated.","Por favor, certifique-se que todos os módulos de busca estão instalados e ativos."
+"You saved the account.","Você salvou a conta."
+"An error occurred while saving account.","Ocorreu um problema enquanto a conta era salva."
+"You deleted the design change.","Você apagou a mudança de design."
+"You can't delete the design change.","Você não pode apagar a mudança de design."
+"Store Design","Design da Loja"
+"Edit Store Design Change","Editar Mudança de Design da Loja"
+"You saved the design change.","Você salvou a mudança de design."
+System,Sistema
+"Manage Stores","Gerenciar Lojas"
+"The database was backed up.","O backup do banco de dados foi concluído."
+"We can\'t create a backup right now. Please try again later.","Não é possível criar o backup agora. Por favor, tente novamente mais tarde."
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","A exclusão de %1 não apagará as informações associadas ao %1 (por exemplo: categorias, produtos, etc.), mas o %1 não poderá ser restaurado. Sugerimos que você crie um backup de banco de dados antes de excluir o %1."
+"Something went wrong. Please try again.","Alguma coisa deu errado. Por favor, tente novamente."
+"This store cannot be deleted.","Essa loja não pode ser apagada."
+"You deleted the store.","Você apagou a loja."
+"Unable to delete the store. Please try again later.","Não foi possível apagar a loja. Por favor, tente novamente mais tarde."
+"This store view cannot be deleted.","Essa visão de loja não pode ser apagada."
+"Store View","Visão da Loja"
+"You deleted the store view.","Você apagou a visão de loja."
+"Unable to delete the store view. Please try again later.","Não foi possível apagar a visão de loja. Por favor, tente novamente mais tarde."
+"This website cannot be deleted.","O website não pode ser apagado."
+"You deleted the website.","Você apagou o website."
+"Unable to delete the website. Please try again later.","Não foi possível apagar o website. Por favor, tente novamente mais tarde."
+"The website does not exist.","O website não existe."
+"Before modifying the website code please make sure it is not used in index.php.","Antes de modificar o código do website, por favor, certifique-se de que ele não é utilizado no arquivo index.php."
+"The store does not exist","A loja não existe."
+"Store view doesn't exist","A visão de loja não existe."
+"Before modifying the store view code please make sure it is not used in index.php.","Antes de modificar o código da visão da loja, por favor, certifique-se de que ele não é utilizado no arquivo index.php."
+"New ","Novo "
+"You saved the website.","Você salvou o website."
+"You saved the store.","Você salvou a loja."
+"You saved the store view.","Você salvou a visão da loja."
+"Something went wrong while saving. Please review the error log.","Algo deu errado enquanto os dados eram salvos. Por favor, revise o relatório de erros."
+"Last 24 Hours","Últimas 24 Horas"
+"Last 7 Days","Últimos 7 Dias"
+"Current Month","Mês Atual"
+YTD,YTD
+2YTD,2YTD
+"Authentication storage is incorrect.","O armazenamento de autenticação é inválido."
+"You did not sign in correctly or your account is temporarily disabled.","Você não está cadastrado corretamente ou sua conta foi desabilitada temporariamente."
+"Authentication error occurred.","Ocorreu um problema na autenticação."
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","O tempo de vida da sessão de administração tem que ser menor ou igual a 31536000 segundos (um ano)"
+"Admin session lifetime must be greater than or equal to 60 seconds","O tempo de vida da sessão de administração tem que ser maior ou igual a 60 segundos"
+Order,Pedido
+"Order #%1","Pedido #%1"
+"Access denied","Acesso negado"
+"Please try to sign out and sign in again.","Por favor, tente sair e entrar novamente."
+"If you continue to receive this message, please contact the store owner.","Se você continuar a receber esta mensagem, por favor, entre em contato com o dono da loja."
+"You need more permissions to access this.","Você precisa de mais permissões para acessar isso."
+"Welcome, please sign in","Bem vindo(a), por favor, autentique-se"
+Username,Nome de usuário
+"user name","nome de usuário"
+Password,Senha
+password,senha
+"Sign in","Entrar"
+"Select Range:","Selecione o intervalo:"
+"No Data Found","Não há dados"
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Gráficos desabilitados. Para habilitar o gráfico, <a href=""%1"">clique aqui</a>."
+"Last Orders","Últimos Pedidos"
+"Last Search Terms","Últimos Termos Pesquisados"
+"Top Search Terms","Termos Mais Pesquisados"
+"There are no search keywords.","Não há palavras-chave pesquisadas."
+"View Statistics For:","Ver estatísticas para:"
+"All Websites","Todos os Websites"
+"Reload Data","Recarregar Dados"
+"Browse Files...","Encontrar Arquivos..."
+Magento,Magento
+"Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. Todos os direitos reservados."
+"ver. %1","ver. %1"
+"Magento Admin Panel","Painel Administrativo do Magento"
+"Account Setting","Configurações da Conta"
+"Customer View","Visão do Consumidor"
+"Sign Out","Sair"
+"About the calendar","Sobre o calendário"
+Close,Fechar
+"Go Today","Hoje"
+Previous,Anterior
+Next,Próximo
+WK,WK
+Time,Hora
+Hour,Hora
+Minute,Minuto
+"JavaScript may be disabled in your browser.","JavaScript precisa estar habilitado no seu navegador."
+"To use this website you must first enable JavaScript in your browser.","Para usar este website você precisa habilitar o JavaScript em seu navegador."
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","Esta é uma loja demonstrativa. Você pode navegar e fazer pedidos, mas nenhum deles será processado."
+"Report Bugs","Relatar Bugs"
+"Store View:","Visão da Loja:"
+"Stores Configuration","Configurações das Lojas"
+"Please confirm scope switching. All data that hasn\'t been saved will be lost.","Por favor, confirme a mudança de escopo. Todos os dados que não foram salvos serão perdidos."
+"Additional Cache Management","Gerenciamento de Cache Adicional"
+"Flush Catalog Images Cache","Esvaziar Cache de Imagens do Catálogo"
+"Pregenerated product images files","Arquivos de imagem pré-geradas dos produtos"
+"Flush JavaScript/CSS Cache","Esvaziar cache JavaScript/CSS"
+"Themes JavaScript and CSS files combined to one file","Arquivos JavaScript/CSS do tema combinados em um único arquivo"
+"Flush Static Files Cache","Esvaziar o cache de Arquivos Estáticos"
+"Preprocessed view files and static files","Arquivos estáticos e de visão pré-processados"
+Catalog,Catálogo
+JavaScript/CSS,JavaScript/CSS
+"JavaScript/CSS Cache","Cache JavaScript/CSS"
+"No records found.","Não há registros."
+Images,Imagens
+"Big Image","Imagem Grande"
+Thumbnail,Miniatura
+"Additional Settings","Configurações Adicionais"
+"records found","registros encontrados"
+selected,selecionado
+"per page","por página"
+"Previous page","Página anterior"
+"of %1","de %1"
+"Next page","Próxima página"
+"Export to:","Exportar para:"
+Actions,Ações
+"Mass Actions","Ações em massa"
+"Unselect All","Desmarcar Tudo"
+"Select Visible","Marcar Visíveis"
+"Unselect Visible","Desmarcar Visíveis"
+"Changes have been made to this section that have not been saved.","Há mudanças feitas nesta seção que ainda não foram salvas."
+"This tab contains invalid data. Please resolve this before saving.","Esta aba contém dados inválidos. Por favor, corrija-os antes de salvar."
+"The information in this tab has been changed.","A informação desta aba foi modificada."
+Loading...,Carregando...
+"We could not detect a size.","Não foi possível detectar um tamanho."
+"We don\'t recognize or support this file extension type.","Não foi possível indentificar ou o formato desse arquivo não é suportado."
+"Allow everything","Permitir tudo"
+"Magento Admin","Administrador Magento"
+"Global Search","Busca Global"
+Marketing,Marketing
+"SEO & Search","SEO & Busca"
+"User Content","Conteúdo do Usuário"
+Content,Conteúdo
+Elements,Elementos
+Design,Design
+Schedule,Agendamento
+Settings,Configurações
+"All Stores","Todas as Lojas"
+Attributes,Atributos
+"Other Settings","Outras Configurações"
+"Data Transfer","Tranferir Dados"
+"Magento Connect","Magento Connect"
+"Connect Manager","Gerenciador do Connect"
+"Package Extensions","Pacotes de Extensão"
+Tools,Ferramentas
+"Web Setup Wizard","Instalador Web"
+Currency,Moeda
+Communications,Comunicações
+Services,Serviços
+Advanced,Avançado
+"Disable Modules Output","Desabilitar Saída de Módulos"
+"Store Email Addresses","Endereços de Email da Loja"
+"Custom Email 1","Email Personalizado 1"
+"Sender Email","Email do Remetente"
+"Sender Name","Nome do Remetente"
+"Custom Email 2","Email Personalizado 2"
+"General Contact","Contato Geral"
+"Sales Representative","Representante de Vendas"
+"Customer Support","Suporte ao Consumidor"
+Developer,Desenvolvedor
+Debug,Debug
+"Enabled Template Path Hints for Storefront","Habilitar Dicas de Caminho do Template na Frente de Loja"
+"Enabled Template Path Hints for Admin","Habilitar Dicas de Caminho na Administração"
+"Add Block Names to Hints","Adicionar o Nome dos Blocos nas Dicas"
+"Template Settings","Configurações de Template"
+"Allow Symlinks","Permitir Symlinks"
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Atenção! Habilitar este recurso não é recomendado em ambientes de produção, pois pode representar um risco em potencial à segurança."
+"Minify Html","Minificar HTML"
+"Minification is not applied in developer mode.","Minificação não entra em vigor em modo de desenvolvimento."
+"Translate Inline","Traduzir em linha"
+"Enabled for Storefront","Habilitado na Frente de Loja"
+"Enabled for Admin","Habilitado na Administração"
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Traduzir, blocos e outros. O cache deverá estar desabilitado na Frente de Loja e na administração para traduções em linha"
+"JavaScript Settings","Configurações de JavaScript"
+"Merge JavaScript Files","Mesclar arquivos JavaScript"
+"Enable JavaScript Bundling","Habilita Empacotamento do JavaScript"
+"Minify JavaScript Files","Minificar Arquivos JavaScript"
+"CSS Settings","Configurações CSS"
+"Merge CSS Files","Mesclar Arquivos CSS"
+"Minify CSS Files","Minificar Arquivos CSS"
+"Image Processing Settings","Configurações de Processamento de Imagens"
+"Image Adapter","Adaptador de Imagem"
+"Static Files Settings","Configurações dos Arquivos Estáticos"
+"Sign Static Files","Assinar Arquivos Estáticos"
+"Country Options","Opções de País"
+"Allow Countries","Permitir Países"
+"Default Country","Paíz Padrão"
+"European Union Countries","Países da União Européia"
+"Top destinations","Principais destinos"
+"Locale Options","Opções de Localização"
+Timezone,Fuso horário
+Locale,Localização
+"First Day of Week","Primeiro Dia da Semana"
+"Weekend Days","Fins de Semana"
+"Store Name","Nome da Loja"
+"Store Phone Number","Número de Telefone da Loja"
+"Store Hours of Operation","Horário de Funcionamento da Loja"
+Country,País
+Region/State,Região/Estado
+"ZIP/Postal Code","ZIP/Código Postal"
+City,Cidade
+"Street Address","Endereço"
+"Street Address Line 2","Complemento"
+"VAT Number","Número VAT"
+"Single-Store Mode","Modo Loja Simples"
+"Enable Single-Store Mode","Habilitar Modo Loja Simples"
+"This setting will not be taken into account if system has more than one store view.","Esta configuração não será levada em consideração se o sistema tiver mais de uma visão de loja."
+"Mail Sending Settings","Configuração de Envio de Emails"
+"Disable Email Communications","Desabilitar Comunicações por Email"
+Host,Anfitrião
+"Port (25)","Porta (25)"
+"Set Return-Path","Configurar Return-Path"
+"Return-Path Email","Email para Return-Path"
+Admin,Admin
+"Admin User Emails","Emails do Administrador"
+"Forgot Password Email Template","Template do Email Esqueci Minha Senha"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Template de email é escolhido com base no esquema de cascata de tema quando a opção ""Padrão"" é selecionada."
+"Forgot and Reset Email Sender","Remetente do Email Esequeci Minha Senha"
+"Startup Page","Página Inicial"
+"Admin Base URL","URL Base da Adminsitração"
+"Use Custom Admin URL","Usar URL Adminsitrativa Personalizada"
+"Custom Admin URL","URL Adminsitrativa Personalizada"
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Certifique-se que a URL base termina com '/' (barra), exemplo: http://seudominio/magento/"
+"Use Custom Admin Path","Usar Caminho da Administração Personalizado"
+"Custom Admin Path","Caminho da Administração Personalizado"
+"You will have to sign in after you save your custom admin path.","Você terá que entrar depois de salvar o caminho da administração personalizado."
+Security,Segurança
+"Recovery Link Expiration Period (hours)","Tempo de Expiração do Link de Recuperação (hours)"
+"Please enter a number 1 or greater in this field.","Por favor, entre com um número maior ou igual a 1 neste campo."
+"Add Secret Key to URLs","Adicionar a Chave Secreta nas URLs"
+"Login is Case Sensitive","Nome de Usuário sensível a maíusculas"
+"Admin Session Lifetime (seconds)","Tempo de vida da sessão administrativa (segundos)"
+"Please enter at least 60 and at most 31536000 (one year).","Por favor, entre com um valor entre 60 e 31536000 (one year)."
+"Enable Charts","Habilitar Gráficos"
+Web,Web
+"Url Options","Opções de URL"
+"Add Store Code to Urls","Adicionar Código da Loja às URLs"
+"
+                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                    ","
+                        <strong style=""color:red"">Aviso!</strong> Quando usar o Código da Loja nas URLs, em alguns casos, o sistema pode não funcionar apropriadamente. Se as URLs sem o Código da Loja for especificado, alguns serviços de terceiros (por exemplo: PayPal) pode não funcionar corretamente."
+                    "
+"Auto-redirect to Base URL","Redirecionar automaticamente para a URL Base"
+"Search Engine Optimization","Search Engine Optimization"
+"Use Web Server Rewrites","Usar Re-escrita do Servidor"
+"Base URLs","URLs Base"
+"Base URL","URL Base"
+"Specify URL or {{base_url}} placeholder.","Especifique a URL ou {{base_url}}."
+"Base Link URL","Link da URL Base"
+"Base URL for Static View Files","URL Base para os arquivos estáticos"
+"May be empty or start with {{unsecure_base_url}} placeholder.","Deverá ficar vazio ou começar com {{unsecure_base_url}}."
+"Base URL for User Media Files","URL Base para arquivos de mídia"
+"Base URLs (Secure)","URLs Base (Segura)"
+"Secure Base URL","URL Base Segura"
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Especifique a URL ou {{base_url}}, ou {{unsecure_base_url}}."
+"Secure Base Link URL","Link da URL Base Segura"
+"Secure Base URL for Static View Files","URL Base Segura para arquivos estáticos"
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Deverá ficar vazo ou começar com {{secure_base_url}}, ou {{unsecure_base_url}}."
+"Secure Base URL for User Media Files","URL Base Segura para arquivos de mídia"
+"Use Secure URLs on Storefront","Usar URLs Seguras na Frente de Loja"
+"Use Secure URLs in Admin","Usar URLs Seguras na Administração"
+"Enable HTTP Strict Transport Security (HSTS)","Habilitar HTTP Strict Transport Security (HSTS)"
+"Upgrade Insecure Requests","Atualizar Requisições Inseguras"
+"Offloader header","Offloader header"
+"Default Pages","Páginas Padrão"
+"Default Web URL","URL Web Padrão"
+"Default No-route URL","URL ""Sem Rota"" Padrão"
+"Session Validation Settings","Configurações da Validação de Sessão"
+"Validate REMOTE_ADDR","Validar REMOTE_ADDR"
+"Validate HTTP_VIA","Validar HTTP_VIA"
+"Validate HTTP_X_FORWARDED_FOR","Validar HTTP_X_FORWARDED_FOR"
+"Validate HTTP_USER_AGENT","Validar HTTP_USER_AGENT"
+"Use SID on Storefront","Usar SID na Frente de Loja"
+"Allows customers to stay logged in when switching between different stores.","Permitir consumidores ficarem autenticados quando trocarem de loja."
+"Cache Type","Tipo de Cache"
+Description,Descrição
+Tags,Etiquetas
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Erro 404</h1><p>Página não encontrada.</p>"
+"Community Edition","Community Edition"
+"Default Theme","Tema Padrão"
+"Applied Theme","Tema Aplicado"
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Se nenhum valor for especificado, o padrão do sistema é usado. O padrão do sistema pode ser modificado por extensões de terceiros."
+"Design Rule","Regra de Design"
+"User Agent Rules","Regras de Agente de Usuário"
+Magento_Ui/js/dynamic-rows/record,Magento_Ui/js/dynamic-rows/record
+Pagination,Paginação
+"Pagination Frame","Paginação "
+"How many links to display at once.","Quantos links para exibir."
+"Pagination Frame Skip","Pulo da Paginação"
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Se a posição atual não abranger as páginas mais altas, torna o link para a posição atual mais/menos esse valor."
+"Anchor Text for Previous","Texto âncora para ""Anterior"""
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Texto alternativo para páginas anteriores no menu de paginação. Se estiver vazio, a imagem padrão é utilizada."
+"Anchor Text for Next","Texto âncora para ""Próximo"""
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Texto alternativo para as próximas páginas no menu de paginação. Se estiver vazio, a imagem padrão é utilizada."
+"Theme Name","Nome do tema"
+"Deployment config file %1 is not writable.","O arquivo de configuração de implantação %1 não é gravável."
