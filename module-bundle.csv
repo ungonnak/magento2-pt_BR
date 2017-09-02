@@ -1,0 +1,108 @@
+"Percent Discount","Percentual de desconto"
+"-- Select --","-- Selecione --"
+Dynamic,Dinâmico
+Fixed,Fixo
+"Create New Option","Criar Nova Opção"
+"Bundle Items","Itens do Pacote"
+"Add Products to Option","Adicionar Produtos à Opção"
+Close,Fechar
+"Delete Option","Apagar Opção"
+"What are you looking for?","O que você está procurando?"
+ID,ID
+Product,Produto
+SKU,SKU
+Price,Preço
+Delete,Apagar
+"Use Default Value","Usar Valor Padrão"
+"There is no defined renderer for ""%1"" option type.","Não há renderizador definido para o tipo de opção ""%1""."
+"Only implemented for bundle product","Implementado somente para produtos empacotados"
+"Product with specified sku: ""%1"" is not a bundle product","O produto especificado com o SKU: ""%1"" não é um produto empacotado"
+"Bundle product could not contain another composite product","Produtos empacotados não podem conter outro produto composto"
+"Id field of product link is required","O campo ID do link do produto é obrigatório"
+"Can not find product link with id ""%1""","Não foi possível encontrar produto com o id ""%1"""
+"Could not save child: ""%1""","Não foi possível salvar o filho: ""%1"""
+"Product with specified sku: ""%1"" does not contain option: ""%2""","O produto especificado pelo SKU: ""%1"" não contém a opção: ""%2"""
+"Child with specified sku: ""%1"" already assigned to product: ""%2""","O filho especificado pelo SKU: ""%1"" já está associado com o produto: ""%2"""
+"Product with specified sku: %1 is not a bundle product","O produto especificado pelo SKU: %1 não é um produto empacotado"
+"Requested bundle option product doesn\'t exist","A opção do pacote requisitada não existe"
+"Requested option doesn\'t exist","A opção requisitada não existe"
+"Cannot delete option with id %1","Não foi possível apagar a opção com id %1"
+"Could not save option","Não foi possível salvar a opção"
+"Price Range","Faixa de preço"
+"As Low as","Tão baixo quanto"
+Together,Junto
+Separately,Separadamente
+"Please specify product option(s).","Por favor, especifique as opções do produto."
+"The options you selected are not available.","As opções selecionadas não estão disponíveis."
+"The required options you selected are not available.","As opções necessárias que você selecionou não estão disponíveis."
+"Please select all required options.","Por favor, selecione todas as opções necessárias."
+"We can\'t add this item to your shopping cart right now.","No momento não é possível adicionar esse item ao carrinho."
+N/A,N/D
+Percent,Porcento
+"Ship Bundle Items","Enviar itens do pacote"
+"We can\'t save custom-defined options for bundles with dynamic pricing.","Não podemos guardar opções personalizadas para pacotes com preços dinâmicos."
+Cancel,Cancelar
+"Add Selected Products","Adicionar os produtos selecionados"
+[GLOBAL],[GLOBAL]
+"Add Option","Adicionar Opção"
+"New Option","Nova Opção"
+"Option Title","Título da Opção"
+"Input Type","Tipo"
+Drop-down,Menu Dobrável
+"Radio Buttons","Botões de opção"
+Checkbox,"Caixa de verificação"
+"Multiple Select","Seleção múltipla"
+Required,Obrigatório
+Default,Padrão
+Name,Nome
+"Default Quantity","Quantidade padrão"
+"User Defined","Definido pelo usuário"
+"Price Type","Tipo de preço"
+"Dynamic Price","Preço dinâmico"
+"Dynamic SKU","SKU dinâmico"
+"Dynamic Weight","Peso dinâmico"
+None,Nenhum
+Quantity:,Quantidade:
+"Choose a selection...","Escolha uma seleção..."
+"Store View Title","Título na Visão de Loja"
+Position,Posição
+"There are no products in this option.","Não há produtos nesta opção."
+Ordered,Solicitados
+Invoiced,Faturados
+Shipped,Enviados
+Refunded,Reembolsados
+Canceled,Cancelados
+"As low as","Tão baixo quanto"
+"Regular Price","Preço normal"
+From,De
+To,Para
+"Buy %1 with %2 discount each","Compre %1 com %2 de desconto cada"
+"Go back to product details","Voltar para os detalhes do produto"
+"Customize and Add to Cart","Personalizar e Adicionar ao Carrinho"
+"* Required Fields","* Campos Obrigatórios"
+"Your Customization","Sua Personalização"
+Availability,Disponibilidade
+"In stock","Em estoque"
+"Out of stock","Sem estoque"
+Summary,Resumo
+"%1 x %2","%1 x %2"
+Availability:,Disponibilidade:
+Quantity,Quantidade
+"Customize %1","Personalizar %1"
+"No options of this product are available.","Não há opções disponíveis para este produto."
+"Gift Message","Mensagem de presente"
+From:,De:
+To:,Para:
+Message:,Mensagem:
+"Product Name","Nome do produto"
+Subtotal,Subtotal
+"Discount Amount","Valor de desconto"
+"Row Total","Total da linha"
+"Qty Invoiced","Qtd faturada"
+"Qty Shipped","Qtd enviada"
+"Add Products to New Option","Adicionar Produtos na Nova Opção"
+"Add Products to Option ""%1""","Adicionar Produtos na Opção ""%1"""
+Select...,Selecione...
+Status,Status
+Thumbnail,Miniatura
+Type,Tipo

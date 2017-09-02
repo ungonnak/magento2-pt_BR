@@ -1,0 +1,49 @@
+State/Province,Estado/Província
+"--Please Select--","-- Por favor, selecione --"
+lbs,lbs
+kgs,kgs
+"Requested country is not available.","O país requisitado não está disponível."
+"Please correct the target currency.","Por favor, corrija a moeda alvo."
+"Undefined rate from ""%1-%2"".","Faixa indefinida de ""%1-%2""."
+label,etiqueta
+"We can\'t retrieve a rate from %1 for %2.","Não é possível recuperar a faixa de %1 até %2."
+"We can\'t retrieve a rate from %1.","Não é possível recuperar a faixa %1."
+"FATAL ERROR:","ERRO FATAL:"
+"We can\'t initialize the import model.","Não foi possível inicializar o modelo de importação."
+"Please specify the correct Import Service.","Por favor, especifique o serviço de importação correto."
+WARNING:,ATENÇÃO:
+"Please correct the country code: %1.","Por favor, corrija o código do país: %1."
+"Country and Format Type combination should be unique","Combinação de país e formato deve ser único"
+"Please correct the rates received","Por favor, corrija as taxas recebidas"
+"Please select a region, state or province.","Por favor, selecione uma região, estado ou província."
+Currency,Moeda
+"Your current currency is: %1.","Sua moeda atual é: %1."
+Continue,Continuar
+"Currency Update Warnings","Avisos de Atualização de Moeda"
+"Currency Setup","Configuração de Moeda"
+"Currency Options","Opções de Moeda"
+"Base Currency","Moeda Base"
+"
+                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ","
+                        A moeda base é utilizada para todas as transações de pagamento. O escopo da moeda base é definido pelo escopo do preço do catálogo (""Catálogo"" > ""Preço"" > ""Escopo do Preço do Catálogo"").
+                    "
+"Default Display Currency","Moeda padrão para exibição"
+"Allowed Currencies","Moedas permitidas"
+Webservicex,Webservicex
+"Connection Timeout in Seconds","Tempo de expiração da conexão em segundos"
+"Scheduled Import Settings","Configurações de importação agendada"
+Enabled,Habilitado
+"Error Email Recipient","Destinatário dos emails de erro"
+"Error Email Sender","Remetente dos emails de erro"
+"Error Email Template","Modelo dos emails de erro"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo do email é definido pelo fluxo do tema quando ""Padrão"" está selecionado."
+Frequency,Frequência
+Service,Serviço
+"Start Time","Hora de início"
+"Installed Currencies","Moedas instaladas"
+"Zip/Postal Code is Optional for","Zip/Código Postal é opcional para"
+"State Options","Opções de Estado"
+"State is Required for","Estado é obrigatório para"
+"Allow to Choose State if It is Optional for Country","Permitir a escolha do estado se for opcional para o país"
+"Weight Unit","Unidade de peso"

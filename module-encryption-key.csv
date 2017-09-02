@@ -1,0 +1,14 @@
+"Change Encryption Key","Modificar Chave de Criptografia"
+"Encryption Key","Chave de Criptografia"
+"New Encryption Key","Nova Chave de Criptografia"
+"The encryption key is used to protect passwords and other sensitive data.","A chave de criptografia é utilizada para proteger senhas e outras informações sensíveis."
+"Auto-generate a Key","Gerar a chave automaticamente"
+No,Não
+Yes,Sim
+"The generated key will be displayed after changing.","A chave gerada será exibida após a geração."
+"New Key","Nova chave"
+"Deployment configuration file is not writable.","O arquivo de configuração de implementação não é gravável."
+"Please enter an encryption key.","Por favor, informe uma chave de criptografia."
+"The encryption key has been changed.","A chave de criptografia foi modificada."
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Sua nova chave de criptografia: %1. Certifique-se de guardá-la em um lugar seguro!"
+"Manage Encryption Key","Gerenciar Chave de Criptografia"

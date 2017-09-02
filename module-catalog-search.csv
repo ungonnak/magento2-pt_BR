@@ -1,0 +1,36 @@
+Home,Principal
+"Go to Home Page","Ir para a página principal"
+"Catalog Advanced Search","Busca avançada"
+All,Tudo
+Yes,Sim
+No,Não
+Results,Resultados
+Grid,Grade
+List,Lista
+"Search Weight","Peso da busca"
+Relevance,Relevância
+"Search results for: '%1'","Resultado da busca para: '%1'"
+"Minimum Search query length is %1","A quantidade de caracteres mínima para a busca é %1"
+"Please specify at least one search term.","Por favor, especifique pelo menos um termo a ser pesquisado"
+"%1 and greater","%1 ou mais"
+"up to %1","Até %1"
+Category,Categoria
+"%1 and above","%1 e abaixo"
+"%1 - %2","%1 - %2"
+"Bucket do not exists","O balde não existe"
+Product,Produto
+"Search Settings","Configurações de Pesquisa"
+Search,Pesquisar
+"Advanced Search","Pesquisa avançada"
+"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> were found using the following search criteria"
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria"
+"We can\'t find any items matching these search criteria.","We can\'t find any items matching these search criteria."
+"Modify your search.","Modificar sua pesquisa."
+name,nome
+"Don't see what you're looking for?","Não encontrou o que estava procurando?"
+"Your search returned no results.","Sua pesquisa não retornou resultados."
+"Popular Search Terms","Termos de busca populares"
+"Catalog Search","Busca do Catálogo"
+"Minimal Query Length","Comprimento mínimo da consulta"
+"Maximum Query Length","Comprimento máximo da consulta"
+"Rebuild Catalog product fulltext search index","Reconstruir o índice de texto completo do catálogo de produtos"
