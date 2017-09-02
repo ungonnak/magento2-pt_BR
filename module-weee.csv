@@ -1,0 +1,30 @@
+"Add Tax","Adicionar Imposto"
+"Delete Tax","Apagar Imposto"
+"All Websites","Todo os Websites"
+FPT,FPT
+"You must set unique country-state combinations within the same fixed product tax","Você deve definir combinações únicas de país-estado dentro do mesmo imposto"
+"When specifying fixed product tax regions within the same country, select either unique region names or all ('*')","Ao especifiar regiões fiscais dentro de um mesmo país, selecione nomes únicos ou todos ('*')"
+"Including FPT only","Incluindo somente FPT"
+"Including FPT and FPT description","Incluindo FPT e descrição"
+"Excluding FPT. Including FPT description and final price","Excluindo FPT. Incluindo descrição FPT e o preço final"
+"Excluding FPT","Excluindo FPT"
+label_value,label_value
+frontend_label,frontend_label
+"Fixed Product Tax","Imposto de Produto"
+Country/State,País/Estado
+Tax,Imposto
+Website,Website
+Action,Ação
+"Excl. Tax","Excluindo Imposto"
+Total,Total
+"Incl. Tax","Incluindo Imposto"
+"Total Incl. Tax","Total Incluindo Imposto"
+"Final Price","Preço Final"
+"Fixed Product Taxes","Impostos sobre produto"
+"Enable FPT","Habilitar FPT"
+"Display Prices In Product Lists","Exibir preços na lista de produtos"
+"Display Prices On Product View Page","Exibir preços na página de produtos"
+"Display Prices In Sales Modules","Exibir preços nos módulos de vendas"
+"Display Prices In Emails","Exibir preços nos emails"
+"Apply Tax To FPT","Aplicar imposto ao FPT"
+"Include FPT In Subtotal","Incluir FPT no subtotal"

@@ -1,0 +1,15 @@
+"No token found.","Token não encontrado."
+"Wrong request.","Requisição errada."
+"Deletion failure. Please try again.","Falha ao apagar. Por favor, tente novamente."
+"Stored Payment Method was successfully removed","Método de pagamento removido com sucesso"
+"Stored Payment Methods","Métodos pagamento armazenados"
+"No available payment tokens for specified order payment.","Não há tokens de pagamento disponíveis para a ordem de pagamento especificada."
+"Card Number","Número do cartão"
+"Expiration Date","Data de vencimento"
+Type,Tipo
+"You have no stored payment methods.","Você não tem métodos de pagamento armazenados."
+ending,final
+Actions,Ações
+Delete,Apagar
+"PayPal Account","Conta PayPal"
+Cancel,Cancelar

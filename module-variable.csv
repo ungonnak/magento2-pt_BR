@@ -1,0 +1,21 @@
+"Custom Variables","Variáveis Personalizadas"
+"Add New Variable","Adicionar Nova Variável"
+"Save and Continue Edit","Salvar e Continuar Editando"
+"Custom Variable ""%1""","Variável Personalizada ""%1"""
+"New Custom Variable","Nova Variável Personalizada"
+Variable,Variável
+"Variable Code","Código da Variável"
+"Variable Name","Nome da Variável"
+"Use Default Variable Values","Usar valores padrão"
+No,Não
+Yes,Sim
+"Variable HTML Value","Valor HTML"
+"Variable Plain Value","Valor Simples"
+"You deleted the custom variable.","Variável apagada com sucesso."
+"You saved the custom variable.","Variável salva com sucesso."
+"Variable Code must be unique.","O código da variável tem que ser único."
+"Validation has failed.","Falha na validação."
+%1,%1
+"Insert Variable...","Inserir variável..."
+"Variable ID","ID da variável"
+Name,Nome

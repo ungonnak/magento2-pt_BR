@@ -1,0 +1,72 @@
+"Widget Insertion","Inserção de Widget"
+"Insert Widget","Inserir Widget"
+label,etiqueta
+Choose...,Escolher...
+Close,Fechar
+"Not Selected","Não selecionado"
+Widget,Widget
+"Widget Type","Tipo do Widget"
+"-- Please Select --","-- Por favor, selecione --"
+"Manage Widget Instances","Gerenciar Instâncias do Widget"
+"Add Widget","Adicionar Widget"
+"Save and Continue Edit","Salvar e Continuar Editando"
+"Widget ""%1""","Widget ""%1"""
+"New Widget Instance","Nova Instância de Widget"
+"Custom Layouts","Layouts personalizados"
+"Page Layouts","Layouts de página"
+"Please Select Container First","Por favor, selecione o recipiente primeiro"
+"Storefront Properties","Propriedades da Frente de Loja"
+Type,Tipo
+"Design Package/Theme","Pacote de Design/Tema"
+"Widget Title","Título do Widget"
+"Assign to Store Views","Visões de lojas"
+"Sort Order","Ordenação"
+"Sort Order of widget instances in the same container","Ordenar instâncias de widget no mesmo recipiente"
+"Layout Updates","Atualizações de Layout"
+Categories,Categorias
+"Anchor Categories","Categorias âncoras"
+"Non-Anchor Categories","Categorias não âncoradas"
+"All Product Types","Todos os tipos de produto"
+Products,Produtos
+"Generic Pages","Páginas genéricas"
+"All Pages","Todas as Páginas"
+"Specified Page","Página específica"
+"Add Layout Update","Adicionar atualização de layout"
+"Remove Layout Update","Remover atualização de layout"
+"Widget Options","Opções do Widget"
+Settings,Configurações
+"Design Theme","Design do Tema"
+Continue,Continuar
+"Please specify a Widget Type.","Por favor, especifique o tipo de widget."
+CMS,SGC
+"Please specify a correct widget.","Por favor, especifique um widget correto."
+"The widget instance has been deleted.","A instância do widget foi apagada."
+"New Widget","Novo Widget"
+Widgets,Widgets
+"The widget instance has been saved.","A instância do widget foi salva."
+name,nome
+description,descrição
+"We cannot create the widget instance because it is missing required information.","Não foi possível criar a instância do widget porque uma informação necessária está faltando."
+None,Nenhum
+%1,%1
+Container,Recipiente
+Template,Modelo
+All,Tudo
+"Specific %1","Especificar %1"
+"Open Chooser","Abrir seletor"
+Apply,Aplicar
+Page,Página
+"Orders and Returns","Pedidos e Devoluções"
+"Orders and Returns Search Form","Formulário de busca de Pedidos e Devoluções"
+"Anchor Custom Title","Título personalizado da âncora"
+"CMS Page Link Block Template","Modelo do bloco de link da página do SGC"
+"CMS Page Link Inline Template","Modelo do link em linha da página do SGC"
+"Display a Link to Loading a Spreadsheet","Exibir um link para o carregamento de uma planilha"
+"Defines whether a link to My Account","Define quando deve linkar para Minha Conta"
+"Link Text","Texto do link"
+"The text of the link to the My Account &gt; Order by SKU page","O texto para o link para a página Minha Conta & Pedido por SKU"
+"Load a list of SKUs","Carregar uma lista de SKUs"
+Product,Produto
+"Select Product...","Selecione o produto..."
+Conditions,Condições
+"Widget ID","ID do widget"

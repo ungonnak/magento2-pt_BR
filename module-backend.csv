@@ -9,13 +9,13 @@ Orders,Pedidos
 Amounts,Montantes
 Bestsellers,Mais Vendidos
 "Most Viewed Products","Produtos Mais Visualizados"
-"New Customers","Novos Consumidores"
-Customers,Consumidores
-Customer,Consumidor
+"New Customers","Novos Clientes"
+Customers,Clientes
+Customer,Cliente
 Guest,Visitante
 Items,Itens
 Total,Total
-"Lifetime Sales","Vendas ao longo da vida"
+"Lifetime Sales","Todas as Vendas"
 "Average Order","Pedido Médio"
 Average,Média
 Product,Produto
@@ -23,7 +23,7 @@ Price,Preço
 Quantity,Quantidade
 Views,Visualizações
 Revenue,Receita
-Tax,Taxa
+Tax,Imposto
 Shipping,Remessa
 "Images (.gif, .jpg, .png)","Imagens (.gif, .jpg, .png)"
 "Media (.avi, .flv, .swf)","Mídia (.avi, .flv, .swf)"
@@ -214,7 +214,7 @@ Order,Pedido
 "Please try to sign out and sign in again.","Por favor, tente sair e entrar novamente."
 "If you continue to receive this message, please contact the store owner.","Se você continuar a receber esta mensagem, por favor, entre em contato com o dono da loja."
 "You need more permissions to access this.","Você precisa de mais permissões para acessar isso."
-"Welcome, please sign in","Bem vindo(a), por favor, autentique-se"
+"Welcome, please sign in","Bem vindo(a), por favor, identifique-se"
 Username,Nome de usuário
 "user name","nome de usuário"
 Password,Senha
@@ -222,21 +222,21 @@ password,senha
 "Sign in","Entrar"
 "Select Range:","Selecione o intervalo:"
 "No Data Found","Não há dados"
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Gráficos desabilitados. Para habilitar o gráfico, <a href=""%1"">clique aqui</a>."
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Gráfico desabilitado. Para habilitar o gráfico, <a href=""%1"">clique aqui</a>."
 "Last Orders","Últimos Pedidos"
 "Last Search Terms","Últimos Termos Pesquisados"
 "Top Search Terms","Termos Mais Pesquisados"
 "There are no search keywords.","Não há palavras-chave pesquisadas."
 "View Statistics For:","Ver estatísticas para:"
 "All Websites","Todos os Websites"
-"Reload Data","Recarregar Dados"
+"Reload Data","Atualizar"
 "Browse Files...","Encontrar Arquivos..."
 Magento,Magento
 "Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. Todos os direitos reservados."
 "ver. %1","ver. %1"
 "Magento Admin Panel","Painel Administrativo do Magento"
 "Account Setting","Configurações da Conta"
-"Customer View","Visão do Consumidor"
+"Customer View","Visão do Cliente"
 "Sign Out","Sair"
 "About the calendar","Sobre o calendário"
 Close,Fechar
@@ -319,7 +319,7 @@ Advanced,Avançado
 "Custom Email 2","Email Personalizado 2"
 "General Contact","Contato Geral"
 "Sales Representative","Representante de Vendas"
-"Customer Support","Suporte ao Consumidor"
+"Customer Support","Suporte ao Cliente"
 Developer,Desenvolvedor
 Debug,Debug
 "Enabled Template Path Hints for Storefront","Habilitar Dicas de Caminho do Template na Frente de Loja"
@@ -346,27 +346,27 @@ Debug,Debug
 "Static Files Settings","Configurações dos Arquivos Estáticos"
 "Sign Static Files","Assinar Arquivos Estáticos"
 "Country Options","Opções de País"
-"Allow Countries","Permitir Países"
-"Default Country","Paíz Padrão"
+"Allow Countries","Países permitidos"
+"Default Country","País padrão"
 "European Union Countries","Países da União Européia"
 "Top destinations","Principais destinos"
 "Locale Options","Opções de Localização"
 Timezone,Fuso horário
 Locale,Localização
-"First Day of Week","Primeiro Dia da Semana"
-"Weekend Days","Fins de Semana"
-"Store Name","Nome da Loja"
-"Store Phone Number","Número de Telefone da Loja"
-"Store Hours of Operation","Horário de Funcionamento da Loja"
+"First Day of Week","Primeiro dia da semana"
+"Weekend Days","Dias do fim de semana"
+"Store Name","Nome"
+"Store Phone Number","Telefone"
+"Store Hours of Operation","Horário de funcionamento"
 Country,País
 Region/State,Região/Estado
 "ZIP/Postal Code","ZIP/Código Postal"
 City,Cidade
 "Street Address","Endereço"
 "Street Address Line 2","Complemento"
-"VAT Number","Número VAT"
-"Single-Store Mode","Modo Loja Simples"
-"Enable Single-Store Mode","Habilitar Modo Loja Simples"
+"VAT Number","Número IVA"
+"Single-Store Mode","Modo Loja Única"
+"Enable Single-Store Mode","Habilitar"
 "This setting will not be taken into account if system has more than one store view.","Esta configuração não será levada em consideração se o sistema tiver mais de uma visão de loja."
 "Mail Sending Settings","Configuração de Envio de Emails"
 "Disable Email Communications","Desabilitar Comunicações por Email"
@@ -434,7 +434,7 @@ Web,Web
 "Validate HTTP_X_FORWARDED_FOR","Validar HTTP_X_FORWARDED_FOR"
 "Validate HTTP_USER_AGENT","Validar HTTP_USER_AGENT"
 "Use SID on Storefront","Usar SID na Frente de Loja"
-"Allows customers to stay logged in when switching between different stores.","Permitir consumidores ficarem autenticados quando trocarem de loja."
+"Allows customers to stay logged in when switching between different stores.","Permitir clientes ficarem autenticados quando trocarem de loja."
 "Cache Type","Tipo de Cache"
 Description,Descrição
 Tags,Etiquetas
