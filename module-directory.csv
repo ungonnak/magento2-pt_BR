@@ -22,7 +22,7 @@ Continue,Continuar
 "Currency Update Warnings","Avisos de Atualização de Moeda"
 "Currency Setup","Configuração de Moeda"
 "Currency Options","Opções de Moeda"
-"Base Currency","Moeda Base"
+"Base Currency","Moeda base"
 "
                         Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
                     ","
@@ -32,7 +32,7 @@ Continue,Continuar
 "Allowed Currencies","Moedas permitidas"
 Webservicex,Webservicex
 "Connection Timeout in Seconds","Tempo de expiração da conexão em segundos"
-"Scheduled Import Settings","Configurações de importação agendada"
+"Scheduled Import Settings","Configurações da Importação Agendada"
 Enabled,Habilitado
 "Error Email Recipient","Destinatário dos emails de erro"
 "Error Email Sender","Remetente dos emails de erro"

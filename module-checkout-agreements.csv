@@ -1,0 +1,41 @@
+"Terms and Conditions","Termos e Condições"
+"Add New Condition","Adicionar Nova Condição"
+"Save Condition","Salvar Condição"
+"Delete Condition","Apagar Condição"
+"Edit Terms and Conditions","Editar Termos e Condições"
+"New Terms and Conditions","Novos Termos e Condições"
+"Terms and Conditions Information","Informações dos Termos e Condições"
+"Condition Name","Nome da condição"
+Status,Status
+Enabled,Habilitado
+Disabled,Desabilitado
+"Show Content as","Exibir o conteúdo como"
+Text,Texto
+HTML,HTML
+Applied,Aplicado
+"Store View","Visão de loja"
+"Checkbox Text","Texto da caixa de seleção"
+Content,Conteúdo
+"Content Height (css)","Altura do conteúdo (css)"
+"Content Height","Altura do conteúdo"
+ID,ID
+Condition,Condição
+Sales,Vendas
+"Checkout Conditions","Condições para finalização da compra"
+"Checkout Terms and Conditions","Termos e Condições para finalização da compra"
+"This condition no longer exists.","Essas condições não existem mais."
+"You deleted the condition.","Condição apagada com sucesso."
+"Something went wrong  while deleting this condition.","Ocorreu um problema ao apagar a condição."
+"Edit Condition","Editar Condição"
+"New Condition","Nova Condição"
+"You saved the condition.","Condição salva com sucesso."
+"Something went wrong while saving this condition.","Ocorreu um problema ao salvar a condição."
+Automatically,Automaticamente
+Manually,Manualmente
+"Please agree to all the terms and conditions before placing the order.","Por favor, aceite todos os termos e condições antes de realizar o pedido."
+"Unable to save checkout agreement %1","Não foi possível salvar o acordo %1"
+"Unable to remove checkout agreement %1","Não foi possível remover o acordo %1"
+"Checkout agreement with specified ID ""%1"" not found.","O acordo especificado com o ID ""%1"" não foi encontrado."
+Close,Fechar
+"Terms & Conditions","Termos e Condições"
+"Enable Terms and Conditions","Habilitar termos e condições"

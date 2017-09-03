@@ -19,7 +19,7 @@ Widget,Widget
 Type,Tipo
 "Design Package/Theme","Pacote de Design/Tema"
 "Widget Title","Título do Widget"
-"Assign to Store Views","Visões de lojas"
+"Assign to Store Views","Visões de loja"
 "Sort Order","Ordenação"
 "Sort Order of widget instances in the same container","Ordenar instâncias de widget no mesmo recipiente"
 "Layout Updates","Atualizações de Layout"
@@ -35,7 +35,7 @@ Products,Produtos
 "Remove Layout Update","Remover atualização de layout"
 "Widget Options","Opções do Widget"
 Settings,Configurações
-"Design Theme","Design do Tema"
+"Design Theme","Design do tema"
 Continue,Continuar
 "Please specify a Widget Type.","Por favor, especifique o tipo de widget."
 CMS,SGC

@@ -1,0 +1,24 @@
+"Page not found.","Página não encontrada."
+"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Obrigado por entrar em contato conosco. Responderemos assim que possível."
+"We can\'t process your request right now. Sorry, that\'s all we know.","Não foi possível processar sua requisição. Desculpe."
+"* Required Fields","* Campos obrigatórios"
+"Write Us","Escreva para nós"
+"Jot us a note and we’ll get back to you as quickly as possible.","Escreva uma breve nota e nós responderemos o mais rápido o possível."
+Name,Nome
+Email,Email
+"Phone Number","Telefone"
+"What’s on your mind?","O que você está pensando?"
+Submit,Enviar
+"Name: %name","Nome: %name"
+"Email: %email","Email: %email"
+"Phone Number: %telephone","Telefone: %telephone"
+"Comment: %comment","Comentário: %comment"
+"Contacts Section","Seção de Contatos"
+Contacts,Contatos
+"Contact Us","Contate-nos"
+"Enable Contact Us","Habilitar"
+"Email Options","Opções de Email"
+"Send Emails To","Enviar emails para"
+"Email Sender","Remetente do email"
+"Email Template","Modelo de email"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo do email é definido pelo fluxo do tema quando ""Padrão"" está selecionado."

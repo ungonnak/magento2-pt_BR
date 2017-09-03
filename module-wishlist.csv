@@ -95,7 +95,7 @@ Back,Voltar
 "Share Options","Opções de Compartilhamento"
 "Email Sender","Remetente do email"
 "Email Template","Modelo do email"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Modelo de email escolhido baseado no fluxo de tema quando a opção ""Padrão"" é selecionado."
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo do email é definido pelo fluxo do tema quando ""Padrão"" está selecionado."
 "Max Emails Allowed to be Sent","Quantidade máxima de emails permitidos para envio"
 "Email Text Length Limit","Limite de caracteres do texto do email"
 "General Options","Opções Gerais"

@@ -377,7 +377,7 @@ Host,Anfitrião
 Admin,Admin
 "Admin User Emails","Emails do Administrador"
 "Forgot Password Email Template","Template do Email Esqueci Minha Senha"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Template de email é escolhido com base no esquema de cascata de tema quando a opção ""Padrão"" é selecionada."
+"Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo do email é definido pelo fluxo do tema quando ""Padrão"" está selecionado."
 "Forgot and Reset Email Sender","Remetente do Email Esequeci Minha Senha"
 "Startup Page","Página Inicial"
 "Admin Base URL","URL Base da Adminsitração"
@@ -401,7 +401,7 @@ Web,Web
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Aviso!</strong> Ao utilizar o código da loja nas URLs, em alguns casos, o sistema poderá não funcionar corretamente se URLs sem o código de loja forem necessárias nos serviços de terceiros (por exemplo, PayPal)."
 "Auto-redirect to Base URL","Redirecionar automaticamente para a URL Base"
 "Search Engine Optimization","Search Engine Optimization"
-"Use Web Server Rewrites","Usar Re-escrita do Servidor"
+"Use Web Server Rewrites","Usar re-escrita do servidor"
 "Base URLs","URLs base"
 "Base URL","URL base"
 "Specify URL or {{base_url}} placeholder.","Especifique a URL ou {{base_url}}."

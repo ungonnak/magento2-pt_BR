@@ -1,0 +1,18 @@
+"Save Currency Rates","Salvar Taxas Cambiais"
+Reset,Redefinir
+Import,Importar
+"Manage Currency Rates","Gerenciar Taxas Cambiais"
+"Import Service","Serviço de importação"
+"Save Currency Symbols","Salvar Símbolos Monetários"
+"Currency Symbols","Símbolos Monetários"
+"Use Standard","Usar padrão"
+"Please specify a correct Import Service.","Por favor, especifique o serviço de importação corretamente."
+"We can\'t initialize the import model.","Não foi possível inicializar o modelo de importação."
+"Click ""Save"" to apply the rates we found.","Clique ""Salvar Taxas Cambiais"" para aplicar as taxas encontradas."
+"Currency Rates","Taxas Cambiais"
+"Please correct the input data for ""%1 => %2"" rate.","Por favor, corrija os dados da taxa ""%1 => %2""."
+"All valid rates have been saved.","Todas as taxas válidas foram salvas."
+System,Sistema
+"You applied the custom currency symbols.","Os símbolos monetários personalizados foram salvos."
+"Old rate:","Taxa antiga:"
+Currency,Moeda
